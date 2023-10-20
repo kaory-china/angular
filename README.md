@@ -1,3 +1,7 @@
+# Notas
+Minhas notas do [curso](https://docs.google.com/document/d/1oAACPskssRynx6azWodnijp466ntCBqe9wi_rPo5KjU/edit?usp=sharing).
+
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
