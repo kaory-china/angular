@@ -1,9 +1,17 @@
-# Notes, Exercises, etc. from Angular - The Complete Guide (2023 Edition) by Maximilian Schwarzmüller 
+# First Assignment
 
-## Notes
+1 - Create two new components (manually or with CLI): WarningAlert and SuccessAlert  
+2 - Output them beneath each other in the AppComponent  
+3 - Output a warning or success message in the Components  
+4 - Style the Components appropriately (maybe some red/green text?)
 
-[Notas](https://docs.google.com/document/d/1oAACPskssRynx6azWodnijp466ntCBqe9wi_rPo5KjU/edit) do curso.
+Use external or internal templates and styles.
 
-## Course
+Feel free to create more components, nest them into each other or play with different types of selectors!
 
-[1 - About components](https://github.com/kaory-china/angular/tree/intro-components) 
+## Notas
+
+Criando os componentes:
+
+`ng g c success-alert`  
+`ng g c warning-alert`
