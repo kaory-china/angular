@@ -6,4 +6,6 @@
 
 ## Course
 
-[1 - About components](https://github.com/kaory-china/angular/tree/intro-components) 
+[1 - About components](https://github.com/kaory-china/angular/tree/intro-components)  
+[2 - Components assignment](https://github.com/kaory-china/angular/tree/first-assignment)  
+[3 - About databinding](https://github.com/kaory-china/angular/tree/intro-data-binding) 
