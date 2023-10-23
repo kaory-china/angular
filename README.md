@@ -9,3 +9,4 @@
 [1 - About components](https://github.com/kaory-china/angular/tree/intro-components)  
 [2 - Components assignment](https://github.com/kaory-china/angular/tree/first-assignment)  
 [3 - About databinding](https://github.com/kaory-china/angular/tree/intro-data-binding) 
+[3 - Databinding assignment](https://github.com/kaory-china/angular/tree/intro-data-binding) 
