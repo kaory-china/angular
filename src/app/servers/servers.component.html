@@ -3,4 +3,4 @@
     <input type="text" class="form-control" [(ngModel)]="username">
 </div>
 <p>Username: {{ username }}</p>
-<button type="submit" class="btn btn-primary" [disabled]="username == '' ? true:false" (click)="onCreateUserName()">Create Username</button>
+<button type="submit" class="btn btn-primary" [disabled]="username === ''" (click)="onCreateUserName()">Create Username</button>
