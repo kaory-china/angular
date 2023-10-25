@@ -1,1 +1,7 @@
-<h3>I AM THE APP COMPONENT</h3>
+<div class="container">
+    <button type="button" class="btn btn-info" (click)="onDisplayDetails()">Display Details</button>
+    <p *ngIf="hidden">details displayed</p>
+    <p>Clicks count: {{ count }}</p>
+    <p *ngFor="let c of clicks" [ngStyle]="{backgroundColor: c >=5 ? 'blue': 'white'}" [ngClass]="{bigger: c >= 5}">{{ c }}</p>
+</div>
+
