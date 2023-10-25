@@ -1,13 +1,8 @@
-# Notes, Exercises, etc. from Angular - The Complete Guide (2023 Edition) by Maximilian Schwarzmüller 
+# Third Assignment
 
-## Notes
-
-[Notas](https://docs.google.com/document/d/1oAACPskssRynx6azWodnijp466ntCBqe9wi_rPo5KjU/edit) do curso.
-
-## Course
-
-[1 - About components](https://github.com/kaory-china/angular/tree/intro-components)  
-[2 - Components assignment](https://github.com/kaory-china/angular/tree/first-assignment)  
-[3 - About databinding](https://github.com/kaory-china/angular/tree/intro-data-binding)   
-[4 - Databinding assignment](https://github.com/kaory-china/angular/tree/intro-data-binding)   
-[5 - About directives](https://github.com/kaory-china/angular/tree/intro-directives)   
+## Directives
+1. Add a button which says Display Details
+2. Add a paragraph with any content of your choice (e.g. 'Secret Password = tuna')
+3. Toggle the displaying of that paragraph with the button created in the first step
+4. Log all button clicks in any array and output that array below the secret paragraph (maybe log a timestamp or simply an incrementing number)
+5. Starting at the 5th log item, give all future log items a blue background (via ngStyle) and white color (ngClass)  
